@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class name="Test">
+<stua name="zhangsan" age="12">stu01</stua>
+<stua name="lisi" age="16">stu02</stua>
+<stua name="wangwu" age="18">stu03</stua>
+<stub name="li" age="31">stu04</stub>
+<stub name="bai" age="21">stu05</stub> 
+<stub name="xiaohei" age="33">stu06</stub>
+</class>

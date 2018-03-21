@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [suite1]">
+  <parameter name="test2" value="乔丹"/>
+  <parameter name="test3" value="周杰伦"/>
+  <parameter name="test1" value="vae"/>
+  <parameter name="url" value="https://www.baidu.com"/>
+  <test name="test1">
+    <classes>
+      <class name="com.UItest.testBaidu"/>
+    </classes>
+  </test> <!-- test1 -->
+</suite> <!-- Failed suite [suite1] -->

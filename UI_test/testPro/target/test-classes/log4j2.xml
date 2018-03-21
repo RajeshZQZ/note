@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn">
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT"> 
+			<PatternLayout pattern="cccc%d [%t] %-5p [%c] - %m%n"/>
+		</Console> 
+	<File name="Filea" fileName="test_file/test.log">
+	    <PatternLayout pattern="cccc%d [%t] %-5p [%c] - %m%n"/>
+    </File>
+	</Appenders> 
+	<Loggers>
+	    <Logger level="error" name="com.uiStudy.testPro.log4j2_demo" additivity="false">
+	        <appender-ref ref="Filea"/>
+	    </Logger>
+		<root level="error">
+			<appender-ref ref="Console"/>
+		</root> 
+	</Loggers>
+</Configuration>

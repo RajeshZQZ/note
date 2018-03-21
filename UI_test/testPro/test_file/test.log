@@ -1,0 +1,6 @@
+cccc2017-06-08 19:55:25,773 [main] ERROR [com.uiStudy.testPro.log4j2_demo] - error信息
+cccc2017-06-08 19:55:25,775 [main] FATAL [com.uiStudy.testPro.log4j2_demo] - fatal信息
+cccc2017-06-08 19:57:16,497 [main] ERROR [com.uiStudy.testPro.log4j2_demo] - error信息
+cccc2017-06-08 19:57:16,498 [main] FATAL [com.uiStudy.testPro.log4j2_demo] - fatal信息
+cccc2017-06-08 19:58:17,128 [main] ERROR [com.uiStudy.testPro.log4j2_demo] - error信息
+cccc2017-06-08 19:58:17,130 [main] FATAL [com.uiStudy.testPro.log4j2_demo] - fatal信息
